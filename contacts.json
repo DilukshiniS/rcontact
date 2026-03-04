@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "phone": "0771234567",
+    "email": "john@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Alice Smith",
+    "phone": "0712345678",
+    "email": "alice@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "phone": "0723456789",
+    "email": "bob@yahoo.com"
+  },
+  {
+    "id": 4,
+    "name": "David Silva",
+    "phone": "0765678901",
+    "email": "david@hotmail.com"
+  }
+]
