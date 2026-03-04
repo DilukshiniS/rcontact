@@ -1,11 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "John Doe",
-    "phone": "0771234567",
-    "email": "john@gmail.com"
-  },
-  {
     "id": 2,
     "name": "Alice Smith",
     "phone": "0712345678",
